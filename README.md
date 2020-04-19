@@ -1,10 +1,9 @@
-# real-world-vue
+# real-world-vue-app
 
 ## Following along?
 
-### An application for event listings. Made with VueJS.
-
-Here are instructions to view the Event Listings application. This app is a result of the VueJS Mastery course that I completed in 2020.
+Here are instructions to try the Event Listings application.
+This app is a result of the VueJS Mastery course that I completed in 2020.
 
 ## Project setup
 
@@ -29,4 +28,3 @@ npm run build
 ```
 npm run lint
 ```
-# real-world-vue-app
